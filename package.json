@@ -19,5 +19,8 @@
   },
   "engines": {
     "node": ">=4.3"
+  },
+  "devDependencies": {
+    "nodegit": "^0.13.0"
   }
 }
